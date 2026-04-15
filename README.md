@@ -1,9 +1,13 @@
 
 Causal Effect of OAS Eligibility on Retirement in Canada
 Difference-in-Differences (DiD) analysis estimating the causal effect of Old Age Security (OAS) eligibility on labour force exit, using 2021 Canadian Census data.
+
 Overview
+
+
 Canada's Old Age Security program provides monthly payments to eligible individuals aged 65+. Eligibility requires Canadian citizenship or at least 10 years of residency, meaning recent immigrants who arrived after age 60 cannot qualify. This creates a natural experiment: two groups of similar age face entirely different retirement incentives based solely on immigration history.
 This project exploits that eligibility cliff to estimate how much OAS increases the probability of leaving the labour force at age 65.
+
 Key Findings
 
 OAS eligibility increases the probability of labour force exit by 2.5 percentage points (most robust specification)
